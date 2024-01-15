@@ -37,10 +37,6 @@ This journey I have embarked on has been passionate and not without challenges, 
 
 #
 
-### 📫 How to reach me
-📧 : bernicemwirigi@gmail.com
-<br/>
-🌐 : https://www.linkedin.com/in/bernice-mwirigi-04504498/
 
 
 
