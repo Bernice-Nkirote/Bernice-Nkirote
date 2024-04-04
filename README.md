@@ -1,7 +1,7 @@
 ### 💻🧚🏼‍♀️ Bernice Nkirote
 
 
-**`SelfScripting Sage (Developer, Frontend developer)`**
+**`SelfScripting Sage (Developer, Full-stack developer)`**
 
 ### 🖨 About me  
 One day, on a day very much like this one, I grew curious and I wrote my first line of code in HTML. It's been 2 years now and counting, and every day has been a pleasure.
@@ -25,14 +25,13 @@ This journey I have embarked on has been passionate and not without challenges, 
 <img align="left" alt="Github" width="30px" style="padding-right=10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="BitBucket" width="30px" style="padding-right=10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
 <img align="left" alt="BitBucket" width="30px" style="padding-right=10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
+<img align="left" alt="GO" width="30px" style="padding-right=10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />       
 <br/>
 
 #
 
 ### 🌱 I’m currently learning
-
-<img align="left" alt="GO" width="30px" style="padding-right=10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />       
-<img align="left" alt="BitBucket" width="30px" style="padding-right=10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="30px" style="padding-right=10px;" />          
 <br/>
 
 #
